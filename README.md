@@ -1,63 +1,63 @@
 # Infocasas Uruguay Properties Dataset Sample
 
-<h2>A sample dataset of 21,859 records</h2>
+<h2>Ein Beispieldatensatz mit 21.859 Einträgen</h2>
 
-<a href="https://brightdata.com">
+<a href="https://brightdata.de">
     <img src="https://github.com/luminati-io/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
-This **Infocasas Uruguay Properties Dataset Sample** includes **21,859 records** and was extracted using the **Bright Data API**.
+Dieses **Infocasas Uruguay Properties Dataset Sample** umfasst **21.859 Einträge** und wurde mithilfe der **Bright Data API** extrahiert.
 
 ## Data Points
 
 | Field Name | Description |
 |------------|-------------|
-| `URL` | The web address of the property listing. |
-| `ID` | Unique identifier for each property listing. |
-| `Imagen` | Links to images of the property listed. |
-| `Descripcion` | Brief description of the property including features and amenities. |
-| `Precio` | The listed price of the property in local currency. |
-| `Ubicacion` | The location details of the property including neighborhood and street. |
-| `Habitaciones` | Number of bedrooms in the property. |
-| `Banos` | Number of bathrooms in the property. |
-| `Dimension_propiedad` | Total area of the property in square meters. |
-| `Dimension_terreno` | Land area of the property in square meters. |
-| `Titulo` | Title of the property listing. |
-| `Phone1` | Primary contact phone number for the property listing. |
-| `Phone2` | Secondary contact phone number for the property listing. |
-| `Email` | Email address for inquiries about the property. |
-| `Seller` | Name of the seller or real estate agent. |
-| `Tipo_de_vendedor` | Type of seller, e.g., agent or owner. |
-| `Estado` | Current state of the property, e.g., available, sold. |
-| `Nueva_usada` | Indicates whether the property is new or used. |
-| `Type` | Type of property, e.g., apartment, house. |
-| `Venta_Arriendo` | Indicates if the property is for sale or rent. |
-| `Region` | Region where the property is located. |
-| `Comuna_Ciudad` | City or commune where the property is located. |
-| `Parqueaderos` | Number of parking spaces available with the property. |
-| `Year` | Year when the property was built or listed. |
-| `Destacado_Superdestacado` | Indicates if the property is featured or highlighted. |
-| `url` | Alternate URL for the property listing. |
-| `seller_id` | Unique identifier for the seller or real estate agent. |
+| `URL` | Die Webadresse des Immobilieninserats. |
+| `ID` | Eindeutiger Identifikator für jedes Immobilieninserat. |
+| `Imagen` | Links zu Bildern der angebotenen Immobilie. |
+| `Descripcion` | Kurze Beschreibung der Immobilie einschließlich Merkmale und Ausstattung. |
+| `Precio` | Der angegebene Preis der Immobilie in lokaler Währung. |
+| `Ubicacion` | Standortdetails der Immobilie einschließlich Viertel und Straße. |
+| `Habitaciones` | Anzahl der Schlafzimmer in der Immobilie. |
+| `Banos` | Anzahl der Badezimmer in der Immobilie. |
+| `Dimension_propiedad` | Gesamtfläche der Immobilie in Quadratmetern. |
+| `Dimension_terreno` | Grundstücksfläche der Immobilie in Quadratmetern. |
+| `Titulo` | Titel des Immobilieninserats. |
+| `Phone1` | Primäre Kontakttelefonnummer für das Immobilieninserat. |
+| `Phone2` | Sekundäre Kontakttelefonnummer für das Immobilieninserat. |
+| `Email` | E-Mail-Adresse für Anfragen zur Immobilie. |
+| `Seller` | Name des Verkäufers oder Immobilienmaklers. |
+| `Tipo_de_vendedor` | Typ des Verkäufers, z. B. Makler oder Eigentümer. |
+| `Estado` | Aktueller Status der Immobilie, z. B. verfügbar, verkauft. |
+| `Nueva_usada` | Gibt an, ob die Immobilie neu oder gebraucht ist. |
+| `Type` | Art der Immobilie, z. B. Wohnung, Haus. |
+| `Venta_Arriendo` | Gibt an, ob die Immobilie zum Verkauf oder zur Miete angeboten wird. |
+| `Region` | Region, in der sich die Immobilie befindet. |
+| `Comuna_Ciudad` | Stadt oder Gemeinde, in der sich die Immobilie befindet. |
+| `Parqueaderos` | Anzahl der zur Immobilie verfügbaren Parkplätze. |
+| `Year` | Jahr, in dem die Immobilie gebaut oder inseriert wurde. |
+| `Destacado_Superdestacado` | Gibt an, ob die Immobilie hervorgehoben oder besonders hervorgehoben ist. |
+| `url` | Alternative URL für das Immobilieninserat. |
+| `seller_id` | Eindeutiger Identifikator für den Verkäufer oder Immobilienmakler. |
 
 
 ## Use Cases
 
-### 1. Real Estate Market Analysis
-Utilize the dataset to analyze property market trends across different regions in Uruguay, aiding investors and realtors in making data-driven decisions.
+### 1. Analyse des Immobilienmarkts
+Nutzen Sie den Datensatz, um Trends auf dem Immobilienmarkt in verschiedenen Regionen Uruguays zu analysieren und Investoren sowie Maklern dabei zu helfen, datengestützte Entscheidungen zu treffen.
 
-### 2. Urban Development Research
-Researchers can use the dataset to study urban expansion, housing affordability, and demographic impacts on real estate in Uruguay.
+### 2. Forschung zur Stadtentwicklung
+Forschende können den Datensatz nutzen, um urbane Ausdehnung, Wohnungserschwinglichkeit und demografische Auswirkungen auf Immobilien in Uruguay zu untersuchen.
 
-### 3. Competitive Business Intelligence
-Businesses can leverage this data to understand competitor listings, pricing strategies, and market dynamics, optimizing their own offerings.
+### 3. Wettbewerbsorientierte Business Intelligence
+Unternehmen können diese Daten nutzen, um Inserate von Wettbewerbern, Preisstrategien und Marktdynamiken zu verstehen und ihre eigenen Angebote zu optimieren.
 
 
 
 ## File Formats
 
-The dataset is available in multiple formats:
-- **CSV** (included in this sample)
+Der Datensatz ist in mehreren Formaten verfügbar:
+- **CSV** (in diesem Sample enthalten)
 - **JSON**
 - **NDJSON**
 - **JSON Lines**
@@ -77,8 +77,8 @@ The dataset is available in multiple formats:
 
 ## Update Frequency
 
-Datasets can be updated on various schedules:
-- **Once** (one-time delivery)
+Datensätze können nach unterschiedlichen Zeitplänen aktualisiert werden:
+- **Once** (einmalige Bereitstellung)
 - **Daily**
 - **Weekly**
 - **Monthly**
@@ -87,14 +87,14 @@ Datasets can be updated on various schedules:
 
 ## Data Enrichment
 
-Enhance your dataset with additional data points based on your specific requirements. Contact us for custom enrichment options.
+Erweitern Sie Ihren Datensatz mit zusätzlichen Datenpunkten basierend auf Ihren spezifischen Anforderungen. Kontaktieren Sie uns für benutzerdefinierte Enrichment-Optionen.
 
-**[Get the full Infocasas Uruguay Properties dataset](https://brightdata.com/products/datasets/real-estate)**
+**[Holen Sie sich den vollständigen Infocasas Uruguay Properties dataset](https://brightdata.de/products/datasets/real-estate)**
 
 ---
 
-## Free Access for Researchers and NGOs
+## Kostenloser Zugang für Forschende und NGOs
 
-The Bright Initiative offers free access to **[Web Scraper APIs](https://brightdata.com/products/web-scraper)** and **[ready-to-use datasets](https://brightdata.com/products/datasets)** for academic researchers, NGOs, and NPOs working on environmental and social causes. 
+Die Bright Initiative bietet kostenlosen Zugang zu **[Web Scraper APIs](https://brightdata.de/products/web-scraper)** und **[einsatzbereiten Datensätzen](https://brightdata.de/products/datasets)** für akademische Forschende, NGOs und NPOs, die an Umwelt- und Sozialthemen arbeiten. 
 
-Apply for free access at [brightinitiative.com](https://brightinitiative.com).
+Beantragen Sie kostenlosen Zugang unter [brightinitiative.com](https://brightinitiative.com).
