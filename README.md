@@ -3,7 +3,7 @@
 <h2>Ein Beispieldatensatz mit 21.859 Einträgen</h2>
 
 <a href="https://brightdata.de">
-    <img src="https://github.com/luminati-io/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
+    <img src="https://github.com/bright-data-de/Infocasas-Uruguay-dataset-samples/blob/main/datasets-image.png" alt="Bright Data datasets" />
 </a>
 
 Dieses **Infocasas Uruguay Properties Dataset Sample** umfasst **21.859 Einträge** und wurde mithilfe der **Bright Data API** extrahiert.
